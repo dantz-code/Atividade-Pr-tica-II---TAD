@@ -9,4 +9,8 @@ Coloquei no Canvas, em Exercícios e Trabalhos um projeto que mostra como ler as
 
 Crie uma classe que represente a entidade correspondente ao tipo de arquivo (por exemplo: Customer, Person, Organization, Lead ou Product). Esta classe deverá conter os atributos equivalentes às colunas do arquivo CSV. 
 
-Implemente uma Vetor que seja capaz de armazenar os objetos da classe criada. Implemente recursos para Leitura de Dados, Impressão de Registros, Inclusão e Pesquisa. 
+Implemente uma Vetor que seja capaz de armazenar os objetos da classe criada. Implemente recursos para Leitura de Dados, Impressão de Registros, Inclusão e Pesquisa
+
+Made by
+**Vitor de Oliveira Guimaraes**
+Danton Rodrigues Diniz
