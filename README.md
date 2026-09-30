@@ -12,5 +12,5 @@ Crie uma classe que represente a entidade correspondente ao tipo de arquivo (por
 Implemente uma Vetor que seja capaz de armazenar os objetos da classe criada. Implemente recursos para Leitura de Dados, Impressão de Registros, Inclusão e Pesquisa
 
 Made by
-**Vitor de Oliveira Guimaraes**
+**Vitor de Oliveira Guimaraes** and
 Danton Rodrigues Diniz
